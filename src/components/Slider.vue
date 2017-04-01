@@ -1,20 +1,14 @@
 ﻿<template>
     <div class="mui-slider">
         <div class="mui-slider-group mui-slider-loop">
-            <div class="mui-slider-item mui-slider-item-duplicate">
-                <a :href="last.link">
-                    <img :src="last.img" />
-                </a>
+            <div class="mui-slider-item mui-slider-item-duplicate" @click="$emit('click', last)">
+                <img :src="last.img" />
             </div>
-            <div class="mui-slider-item" v-for="item in items">
-                <a :href="item.link">
-                    <img :src="item.img" />
-                </a>
+            <div class="mui-slider-item" v-for="item in items" @click="$emit('click', item)">
+                <img :src="item.img" />
             </div>
-            <div class="mui-slider-item mui-slider-item-duplicate">
-                <a :href="first.link">
-                    <img :src="first.img" />
-                </a>
+            <div class="mui-slider-item mui-slider-item-duplicate" @click="$emit('click', first)">
+                <img :src="first.img" />
             </div>
         </div>
     </div>
@@ -37,12 +31,20 @@
         },
         mounted() {
             this.$nextTick(() => {
-                //获得slider插件对象
-                var gallery = mui(this.$el);
-                gallery.slider({
-                    interval: this.interval//自动轮播周期，若为0则不自动播放，默认为0；
-                });
+                this.SetInterval(this.interval)
             })
+        },
+        methods: {
+            SetInterval(val) {
+                //获得slider插件对象
+                const gallery = mui(this.$el)
+
+                console.log(gallery, val)
+
+                gallery.slider({
+                    interval: val//自动轮播周期，若为0则不自动播放，默认为0；
+                })
+            }
         },
         computed: {
             items() {
@@ -62,6 +64,11 @@
             },
             last() {
                 return this.items[this.items.length - 1]
+            }
+        },
+        watch: {
+            'interval': function (val) {
+                this.SetInterval(val)
             }
         }
     }
