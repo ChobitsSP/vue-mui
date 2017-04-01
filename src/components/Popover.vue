@@ -11,8 +11,8 @@
     module.exports = {
         name: 'MuiPopover',
         methods: {
-            popover(val) {
-                mui(this.$el).popover(val ? 'show' : 'hide')
+            popover(status, anchor) {
+                mui(this.$el).popover(status, anchor)
             }
         }
     }

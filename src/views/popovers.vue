@@ -1,9 +1,9 @@
 ﻿<template>
     <div class="mui-content">
-        <button @click="show">show</button>
+        <button ref="btn" @click="show">show</button>
         <mui-popover ref="popover">
             <ul class="mui-table-view">
-                <li class="mui-table-view-cell" v-for="i in 5">
+                <li class="mui-table-view-cell" v-for="i in 10">
                     Item{{ i }}
                 </li>
             </ul>
@@ -20,7 +20,7 @@
         },
         methods: {
             show() {
-                this.$refs.popover.popover(true)
+                this.$refs.popover.popover('show', this.$refs.btn)
             }
         },
         components: {
