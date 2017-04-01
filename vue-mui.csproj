@@ -92,6 +92,12 @@
   <ItemGroup>
     <Content Include="src\components\Slider.vue" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\components\Popover.vue" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\views\popovers.vue" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />

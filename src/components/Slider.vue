@@ -39,10 +39,8 @@
                 //获得slider插件对象
                 const gallery = mui(this.$el)
 
-                console.log(gallery, val)
-
                 gallery.slider({
-                    interval: val//自动轮播周期，若为0则不自动播放，默认为0；
+                    interval: val   //自动轮播周期，若为0则不自动播放，默认为0；
                 })
             }
         },

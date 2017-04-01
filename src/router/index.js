@@ -9,7 +9,7 @@ const routes = [
         name: 'index',
         component: require('src/Index'),
         meta: {
-            title: 'index'
+            title: 'Hello mui'
         }
     },
     {
@@ -17,7 +17,7 @@ const routes = [
         name: 'slider',
         component: require('src/views/slider'),
         meta: {
-            title: '开关（slider）'
+            title: 'slider'
         }
     },
     {
@@ -26,6 +26,14 @@ const routes = [
         component: require('src/views/switches'),
         meta: {
             title: '开关（switch）'
+        }
+    },
+    {
+        path: '/popovers',
+        name: 'popovers',
+        component: require('src/views/popovers'),
+        meta: {
+            title: 'popovers'
         }
     }
 ];

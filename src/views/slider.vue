@@ -19,9 +19,10 @@
             }
         },
         created() {
-            this.images.push('http://www.dcloud.io/hellomui/images/yuantiao.jpg');
             this.images.push('http://www.dcloud.io/hellomui/images/shuijiao.jpg');
             this.images.push('http://www.dcloud.io/hellomui/images/muwu.jpg');
+            this.images.push('http://www.dcloud.io/hellomui/images/cbd.jpg');
+            this.images.push('http://www.dcloud.io/hellomui/images/yuantiao.jpg');
         },
         computed: {
             interval() {
