@@ -46,13 +46,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
-    <Folder Include="src\data\" />
-    <Folder Include="src\directives\" />
-    <Folder Include="src\filters\" />
-    <Folder Include="src\router\" />
-    <Folder Include="src\store\modules\" />
-    <Folder Include="src\utils\" />
-    <Folder Include="src\views\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
@@ -77,9 +70,24 @@
     <Content Include="README.md" />
     <Content Include="src\App.vue" />
     <Content Include="src\assets\logo.png" />
-    <Content Include="src\components\Hello.vue" />
     <Content Include="src\main.js" />
+    <Content Include="src\router\index.js" />
     <Content Include="static\.gitkeep" />
+    <Content Include="static\css\mui.min.css" />
+    <Content Include="static\js\mui.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\components\Switch.vue" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="static\fonts\mui.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\views\slider.vue" />
+    <Content Include="src\views\switches.vue" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\Index.vue" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
