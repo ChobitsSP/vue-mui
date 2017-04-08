@@ -10,6 +10,9 @@
             <li class="mui-table-view-cell">
                 <router-link class="mui-navigate-right" to="/popovers">popovers</router-link>
             </li>
+            <li class="mui-table-view-cell">
+                <router-link class="mui-navigate-right" to="/indexlist">indexlist</router-link>
+            </li>
         </ul>
     </div>
 </template>

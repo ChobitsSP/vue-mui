@@ -35,6 +35,14 @@ const routes = [
         meta: {
             title: 'popovers'
         }
+    },
+    {
+        path: '/indexlist',
+        name: 'indexlist',
+        component: require('src/views/indexlist'),
+        meta: {
+            title: 'indexlist'
+        }
     }
 ];
 
