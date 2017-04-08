@@ -208,12 +208,7 @@
             }
         },
         mounted() {
-
-            var ee = mui(this.$el);
-
-            console.log(ee.indexedList())
-
-            //mui(this.$el).indexedList()
+            mui(this.$el).indexedList()
         }
     }
 </script>

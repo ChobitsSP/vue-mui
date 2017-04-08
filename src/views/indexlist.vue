@@ -1,11 +1,19 @@
 ﻿<template>
     <div class="mui-content">
-        <index-list></index-list>
+        <index-list style="height:1000px;"></index-list>
     </div>
 </template>
 
 <script>
     module.exports = {
+        data() {
+
+        },
+        mounted() {
+            this.$nextTick(() => {
+
+            })
+        },
         components: {
             IndexList: require('components/IndexList')
         }
