@@ -70,6 +70,7 @@
     <Content Include="README.md" />
     <Content Include="src\App.vue" />
     <Content Include="src\assets\logo.png" />
+    <Content Include="src\components\IndexList.js" />
     <Content Include="src\main.js" />
     <Content Include="src\router\index.js" />
     <Content Include="static\.gitkeep" />

@@ -11,3 +11,16 @@
         }
     }
 </script>
+
+<style>
+    html,
+    body {
+        height: 100%;
+        overflow: hidden;
+    }
+
+    .mui-bar {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+</style>
