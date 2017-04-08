@@ -5,8 +5,6 @@
 </template>
 
 <script>
-    const airports = require('src/data/airports.json')
-
     module.exports = {
         data() {
             return {
