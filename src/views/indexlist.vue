@@ -1,6 +1,6 @@
 ﻿<template>
     <div class="mui-content">
-        <index-list ref="wrapper" :height="wrapperHeight"></index-list>
+        <index-list :height="wrapperHeight"></index-list>
     </div>
 </template>
 
