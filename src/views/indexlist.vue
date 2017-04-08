@@ -15,7 +15,7 @@
             this.wrapperHeight = document.body.offsetHeight - 44
         },
         components: {
-            IndexList: require('components/IndexList')
+            IndexList: require('components/IndexList.vue')
         }
     }
 </script>
