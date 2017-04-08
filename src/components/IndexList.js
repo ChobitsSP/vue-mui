@@ -184,3 +184,12 @@ $.fn.indexedList = function (options) {
     });
     return this[0] ? this[0].indexedList : null;
 };
+
+export function indexedList(options) {
+    //遍历选择的元素
+    this.each(function (i, element) {
+        if (element.indexedList) return;
+        element.indexedList = new IndexedList(element, options);
+    });
+    return this[0] ? this[0].indexedList : null;
+}
