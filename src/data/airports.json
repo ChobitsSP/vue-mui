@@ -1,1 +1,1154 @@
-﻿[]
+﻿[
+  {
+    "iata": "AHJ",
+    "name": "阿坝红原机场",
+    "pinyin": "abahongyuanjichang",
+    "enname": null
+  },
+  {
+    "iata": "YIE",
+    "name": "阿尔山伊尔施机场",
+    "pinyin": "aershanyiershijichang",
+    "enname": "AERSHAN YIERSHI AIPPORT"
+  },
+  {
+    "iata": "AKU",
+    "name": "阿克苏温宿机场",
+    "pinyin": "akesuwensujichang",
+    "enname": "Aksu Airport"
+  },
+  {
+    "iata": "NGQ",
+    "name": "阿里昆莎机场",
+    "pinyin": "alikunshajichang",
+    "enname": "Ngari Gunsa Airport"
+  },
+  {
+    "iata": "AKA",
+    "name": "安康五里铺机场",
+    "pinyin": "ankangwulipujichang",
+    "enname": "Ankang Airport"
+  },
+  {
+    "iata": "AQG",
+    "name": "安庆天柱山机场",
+    "pinyin": "anqingtianzhushanjichang",
+    "enname": "Anqing Airport"
+  },
+  {
+    "iata": "AVA",
+    "name": "安顺黄果树机场",
+    "pinyin": "anshuanhuangguoshujichang",
+    "enname": "Anshun Huangguoshu Airport"
+  },
+  {
+    "iata": "AEB",
+    "name": "百色巴马机场",
+    "pinyin": "baisejichang",
+    "enname": "Tian Yang Air Base"
+  },
+  {
+    "iata": "BAV",
+    "name": "包头二里半机场",
+    "pinyin": "baitouerlibanjichang",
+    "enname": "Baotou Airport"
+  },
+  {
+    "iata": "BSD",
+    "name": "保山云端机场",
+    "pinyin": "baoshanyunduanjichang",
+    "enname": "Baoshan Yunduan Airport"
+  },
+  {
+    "iata": "BHY",
+    "name": "北海福城机场",
+    "pinyin": "beihaifuchengjichang",
+    "enname": "Beihai Airport"
+  },
+  {
+    "iata": "NAY",
+    "name": "北京南苑机场",
+    "pinyin": "beijingnanyuanjichang",
+    "enname": "Beijing Nanyuan Airport"
+  },
+  {
+    "iata": "PEK",
+    "name": "北京首都国际机场",
+    "pinyin": "beijingshouduguojijichang",
+    "enname": "Capital"
+  },
+  {
+    "iata": "NBS",
+    "name": "长白山机场",
+    "pinyin": "changbaishanjichang",
+    "enname": "Changbaishan Airport"
+  },
+  {
+    "iata": "CGQ",
+    "name": "长春龙嘉国际机场",
+    "pinyin": "changchunlongjiaguojijichang",
+    "enname": "Dafangshen"
+  },
+  {
+    "iata": "CGD",
+    "name": "常德桃花源机场",
+    "pinyin": "changdetaohuayuanjichang",
+    "enname": "Changde Airport"
+  },
+  {
+    "iata": "BPX",
+    "name": "昌都邦达机场",
+    "pinyin": "changdubangdajichang",
+    "enname": "Qamdo Bangda Airport"
+  },
+  {
+    "iata": "CSX",
+    "name": "长沙黄花国际机场",
+    "pinyin": "changshahuanghuaguojijichang",
+    "enname": "HUANGHUA"
+  },
+  {
+    "iata": "CIH",
+    "name": "长治王村机场",
+    "pinyin": "changzhiwangcunjichang",
+    "enname": "Changzhi Airport"
+  },
+  {
+    "iata": "CZX",
+    "name": "常州奔牛机场",
+    "pinyin": "changzhoubenniujichang",
+    "enname": "Changzhou Airport"
+  },
+  {
+    "iata": "CHG",
+    "name": "朝阳机场",
+    "pinyin": "chaoyangjichang",
+    "enname": "Chaoyang Airport"
+  },
+  {
+    "iata": "CTU",
+    "name": "成都双流国际机场",
+    "pinyin": "chengdushuangliuguojijichang",
+    "enname": "Shuangliu"
+  },
+  {
+    "iata": "CIF",
+    "name": "赤峰玉龙机场",
+    "pinyin": "chifengyulongjichang",
+    "enname": "Chifeng Airport"
+  },
+  {
+    "iata": "JUH",
+    "name": "池州九华山机场",
+    "pinyin": "chizhoujiuhuashanjichang",
+    "enname": "chizhouhuashan"
+  },
+  {
+    "iata": "CKG",
+    "name": "重庆江北国际机场",
+    "pinyin": "chongqingjiangbeiguojijichang",
+    "enname": "Jiangbei"
+  },
+  {
+    "iata": "DLC",
+    "name": "大连周水子机场",
+    "pinyin": "dalianzhoushuizijichang",
+    "enname": "Zhoushuizi"
+  },
+  {
+    "iata": "DLU",
+    "name": "大理机场",
+    "pinyin": "dalihuangcaobajichang",
+    "enname": "Dali Airport"
+  },
+  {
+    "iata": "DDG",
+    "name": "丹东浪头国际机场",
+    "pinyin": "dandonglangtoujichang",
+    "enname": "Dandong Airport"
+  },
+  {
+    "iata": "DCY",
+    "name": "稻城亚丁机场",
+    "pinyin": "DAOCHENGYADINGJICHANG",
+    "enname": "Aden Daocheng Airport"
+  },
+  {
+    "iata": "DQA",
+    "name": "大庆萨尔图机场",
+    "pinyin": "daqingsaertujichang",
+    "enname": "Saertu Airport"
+  },
+  {
+    "iata": "DAT",
+    "name": "大同云冈机场",
+    "pinyin": "datongyungangjichang",
+    "enname": "Datong Airport"
+  },
+  {
+    "iata": "DAX",
+    "name": "达州河市机场",
+    "pinyin": "dazhouheshijichang",
+    "enname": "Dachuan Airport"
+  },
+  {
+    "iata": "LUM",
+    "name": "德宏芒市机场",
+    "pinyin": "dehongmangshijichang",
+    "enname": "Mangshi Airport"
+  },
+  {
+    "iata": "HXD",
+    "name": "德令哈机场",
+    "pinyin": "delinghajichang",
+    "enname": null
+  },
+  {
+    "iata": "DOY",
+    "name": "东营胜利机场",
+    "pinyin": "dongyingyonganjichang",
+    "enname": "Dongying Shengli Airport"
+  },
+  {
+    "iata": "DNH",
+    "name": "敦煌机场",
+    "pinyin": "dunhuangjichang",
+    "enname": "Dunhuang"
+  },
+  {
+    "iata": "DSN",
+    "name": "鄂尔多斯伊金霍洛机场",
+    "pinyin": "eerduosiyijinhuoluojichang",
+    "enname": "Ordos"
+  },
+  {
+    "iata": "ENH",
+    "name": "恩施许家坪机场",
+    "pinyin": "enshixujiapingjichang",
+    "enname": "Enshi Airport"
+  },
+  {
+    "iata": "ERL",
+    "name": "二连浩特机场",
+    "pinyin": "erlianhaotejichang",
+    "enname": "Erenhot Saiwusu International Airport"
+  },
+  {
+    "iata": "FUO",
+    "name": "佛山沙堤机场",
+    "pinyin": "foshanshadijichang",
+    "enname": "Foshan Shadi Airport"
+  },
+  {
+    "iata": "FUG",
+    "name": "阜阳西关机场",
+    "pinyin": "fuyangxiguanjichang",
+    "enname": "Fuyang Xiguan Airport"
+  },
+  {
+    "iata": "FYJ",
+    "name": "抚远东极机场",
+    "pinyin": "fuyuandongjijichang",
+    "enname": null
+  },
+  {
+    "iata": "FOC",
+    "name": "福州长乐国际机场",
+    "pinyin": "fuzhouchanglejichang",
+    "enname": "Changle"
+  },
+  {
+    "iata": "GXH",
+    "name": "甘南夏河机场",
+    "pinyin": "gannanxiahejichang",
+    "enname": null
+  },
+  {
+    "iata": "KOW",
+    "name": "赣州黄金机场",
+    "pinyin": "ganzhouhuangjinjichang",
+    "enname": "Ganzhou Airport"
+  },
+  {
+    "iata": "GOQ",
+    "name": "格尔木机场",
+    "pinyin": "geermujichang",
+    "enname": "Golmud Airport"
+  },
+  {
+    "iata": "GYS",
+    "name": "广元盘龙机场",
+    "pinyin": "guangyuanpanlongjichang",
+    "enname": "Guangyuan Airport"
+  },
+  {
+    "iata": "CAN",
+    "name": "广州白云国际机场",
+    "pinyin": "guangzhoubaiyunguojijichang",
+    "enname": "New Guangzhou Baiyun International"
+  },
+  {
+    "iata": "KWL",
+    "name": "桂林两江国际机场",
+    "pinyin": "guilinliangjiangjichang",
+    "enname": "Liangjiang"
+  },
+  {
+    "iata": "KWE",
+    "name": "贵阳龙洞堡国际机场",
+    "pinyin": "guiyanglongdongbaoguojijichang",
+    "enname": "Long Dong Bao"
+  },
+  {
+    "iata": "GYU",
+    "name": "固原六盘山机场",
+    "pinyin": "guyuanliupanshanjichang",
+    "enname": "Guyuan Liupanshan Airport"
+  },
+  {
+    "iata": "HRB",
+    "name": "哈尔滨太平国际机场",
+    "pinyin": "haerbintaipingyangguojijichang",
+    "enname": "Taiping"
+  },
+  {
+    "iata": "HAK",
+    "name": "海口美兰国际机场",
+    "pinyin": "haikoumeilanguojijichang",
+    "enname": "Meilan"
+  },
+  {
+    "iata": "HMI",
+    "name": "哈密机场",
+    "pinyin": "hamijichang",
+    "enname": "Hami Airport"
+  },
+  {
+    "iata": "HDG",
+    "name": "邯郸机场",
+    "pinyin": "handanjichang",
+    "enname": "Handan Airport"
+  },
+  {
+    "iata": "HGH",
+    "name": "杭州萧山国际机场",
+    "pinyin": "hangzhouxiaoshanguojijichang",
+    "enname": "Xiaoshan"
+  },
+  {
+    "iata": "HCJ",
+    "name": "河池金城江机场",
+    "pinyin": "hechijinchengjiangjichang",
+    "enname": null
+  },
+  {
+    "iata": "HFE",
+    "name": "合肥新桥国际机场",
+    "pinyin": "hefeixinqiaoguojijichang",
+    "enname": "Luogang"
+  },
+  {
+    "iata": "HEK",
+    "name": "黑河机场",
+    "pinyin": "heihejichang",
+    "enname": "Heihe Airport"
+  },
+  {
+    "iata": "HNY",
+    "name": "衡阳南岳机场",
+    "pinyin": "hengyangnanyuejichang",
+    "enname": "Hengyang Airport"
+  },
+  {
+    "iata": "HTN",
+    "name": "和田机场",
+    "pinyin": "hetianjichang",
+    "enname": "Hotan"
+  },
+  {
+    "iata": "HIA",
+    "name": "淮安涟水机场",
+    "pinyin": "huaianlianshuijichang",
+    "enname": "Lianshui Airport"
+  },
+  {
+    "iata": "HJJ",
+    "name": "怀化芷江机场",
+    "pinyin": "huaihuazhijiangjichang",
+    "enname": "Zhijiang Airport"
+  },
+  {
+    "iata": "TXN",
+    "name": "黄山屯溪国际机场",
+    "pinyin": "huanshantunxiguojijichang",
+    "enname": "TUNXI"
+  },
+  {
+    "iata": "HET",
+    "name": "呼和浩特白塔国际机场",
+    "pinyin": "huhehaotebaitaguojijichang",
+    "enname": "Baita"
+  },
+  {
+    "iata": "HUZ",
+    "name": "惠州平潭机场",
+    "pinyin": "huizhoupingtanjichang",
+    "enname": "Huizhou Airport"
+  },
+  {
+    "iata": "HLD",
+    "name": "呼伦贝尔海拉尔机场",
+    "pinyin": "hulunbeierhailaerjichang",
+    "enname": "Hulunbeier Hailar"
+  },
+  {
+    "iata": "JGD",
+    "name": "加格达奇嘎仙机场",
+    "pinyin": "jiagedaqigaxianjichang",
+    "enname": "Jiagedaqi Airport"
+  },
+  {
+    "iata": "JMU",
+    "name": "佳木斯东郊机场",
+    "pinyin": "jiamusidongjiaojichang",
+    "enname": "Jiamusi"
+  },
+  {
+    "iata": "JGN",
+    "name": "嘉峪关机场",
+    "pinyin": "jiayuguanjichang",
+    "enname": "Jiayuguan Airport"
+  },
+  {
+    "iata": "SWA",
+    "name": "揭阳潮汕国际机场",
+    "pinyin": "jieyangchaoshanguojijichang",
+    "enname": "Jieyang Chaoshan"
+  },
+  {
+    "iata": "TNA",
+    "name": "济南遥墙国际机场",
+    "pinyin": "jinanyaoqiangguojijichang",
+    "enname": "Yaoqiang"
+  },
+  {
+    "iata": "JIC",
+    "name": "金昌金川机场",
+    "pinyin": "jinchangjinchuanjichang",
+    "enname": "Jinchuan Airport"
+  },
+  {
+    "iata": "JDZ",
+    "name": "景德镇罗家机场",
+    "pinyin": "jingdezhengluojiajichang",
+    "enname": "Jingdezhen Airport"
+  },
+  {
+    "iata": "JGS",
+    "name": "井冈山机场",
+    "pinyin": "jinggangshanjichang",
+    "enname": "Jinggangshan Airport"
+  },
+  {
+    "iata": "JNG",
+    "name": "济宁曲阜机场",
+    "pinyin": "jiningqufujichang",
+    "enname": "Jining Qufu Airport"
+  },
+  {
+    "iata": "JNZ",
+    "name": "锦州小岭子机场",
+    "pinyin": "jinzhouxiaolingzijichang",
+    "enname": "Jinzhou Airport"
+  },
+  {
+    "iata": "JZH",
+    "name": "九寨黄龙机场",
+    "pinyin": "jiuzhaihuanglongjichang",
+    "enname": "Jiuzhai Huanglong Airport"
+  },
+  {
+    "iata": "JXA",
+    "name": "鸡西兴凯湖机场",
+    "pinyin": "jixixingkaihujichang",
+    "enname": "jixi"
+  },
+  {
+    "iata": "KJH",
+    "name": "凯里黄平机场",
+    "pinyin": "kailihuangpingjichang",
+    "enname": "kailihuangping"
+  },
+  {
+    "iata": "KJI",
+    "name": "喀纳斯机场",
+    "pinyin": "kanashijichang",
+    "enname": null
+  },
+  {
+    "iata": "KGT",
+    "name": "康定机场",
+    "pinyin": "KANGDINGJICHANG",
+    "enname": null
+  },
+  {
+    "iata": "KHG",
+    "name": "喀什机场",
+    "pinyin": "kashijichang",
+    "enname": "Kashi"
+  },
+  {
+    "iata": "KCA",
+    "name": "库车机场",
+    "pinyin": "kuchejichang",
+    "enname": "Kuqa Airport"
+  },
+  {
+    "iata": "KRL",
+    "name": "库尔勒机场",
+    "pinyin": "kuerlejichang",
+    "enname": "Korla Airport"
+  },
+  {
+    "iata": "KMG",
+    "name": "昆明长水国际机场",
+    "pinyin": "kunmingchangshuiguojijichang",
+    "enname": "Kunming Changshui"
+  },
+  {
+    "iata": "LHW",
+    "name": "兰州中川国际机场",
+    "pinyin": "lanzhouzhongchuanguojijichang",
+    "enname": "Zhongchuan"
+  },
+  {
+    "iata": "LXA",
+    "name": "拉萨贡嘎国际机场",
+    "pinyin": "lasagonggajichang",
+    "enname": "GONGGAR"
+  },
+  {
+    "iata": "LJG",
+    "name": "丽江三义国际机场",
+    "pinyin": "lijiangsanyiguojijichang",
+    "enname": "SANYI"
+  },
+  {
+    "iata": "LNJ",
+    "name": "临沧机场",
+    "pinyin": "lincangjichang",
+    "enname": "Lincang Airport"
+  },
+  {
+    "iata": "LFQ",
+    "name": "临汾乔李机场",
+    "pinyin": "linfenqiaolijichang",
+    "enname": "linfenqiaolijichang"
+  },
+  {
+    "iata": "LYI",
+    "name": "临沂机场",
+    "pinyin": "linxijichang",
+    "enname": "Shubuling Airport"
+  },
+  {
+    "iata": "LZY",
+    "name": "林芝米林机场 ",
+    "pinyin": "linzhimilinjichang",
+    "enname": "Nyingchi Airport"
+  },
+  {
+    "iata": "HZH",
+    "name": "黎平机场",
+    "pinyin": "LIPINGJICHANG",
+    "enname": "Li Ping Airport"
+  },
+  {
+    "iata": "LPF",
+    "name": "六盘水月照机场",
+    "pinyin": "liupanshuiyuezhaojichang",
+    "enname": null
+  },
+  {
+    "iata": "LZH",
+    "name": "柳州白莲机场",
+    "pinyin": "liuzhoubailianjichang",
+    "enname": "Bailian Airport"
+  },
+  {
+    "iata": "LCX",
+    "name": "连城冠豸山机场",
+    "pinyin": "longyanguanzhishanjichang",
+    "enname": "Rock guanzhaishan Airport"
+  },
+  {
+    "iata": "LYA",
+    "name": "洛阳机场",
+    "pinyin": "luoyangjichang",
+    "enname": "Luoyang Airport"
+  },
+  {
+    "iata": "LZO",
+    "name": "泸州蓝田机场",
+    "pinyin": "luzhoulantianjichang",
+    "enname": "Luzhou Airport"
+  },
+  {
+    "iata": "LLV",
+    "name": "吕梁大武机场",
+    "pinyin": "LVLIANGDAWUJICHANG",
+    "enname": null
+  },
+  {
+    "iata": "NZH",
+    "name": "满洲里西郊机场",
+    "pinyin": "manzhoulixijiaojichang",
+    "enname": "XIJIAO"
+  },
+  {
+    "iata": "MXZ",
+    "name": "梅县机场",
+    "pinyin": "meixianjichang",
+    "enname": "Meixian Airport"
+  },
+  {
+    "iata": "MIG",
+    "name": "绵阳南郊机场",
+    "pinyin": "mianyangnanjiaojichang",
+    "enname": "Mianyang Airport"
+  },
+  {
+    "iata": "OHE",
+    "name": "漠河古莲机场",
+    "pinyin": "mohegulianjichang",
+    "enname": "Gu-Lian Airport"
+  },
+  {
+    "iata": "MDG",
+    "name": "牡丹江海浪机场",
+    "pinyin": "mudanjianghailangjichang",
+    "enname": "Hailang"
+  },
+  {
+    "iata": "NLT",
+    "name": "那拉提机场",
+    "pinyin": "nalatijichang",
+    "enname": null
+  },
+  {
+    "iata": "KHN",
+    "name": "南昌昌北国际机场",
+    "pinyin": "nanchangchangbeiguojijichang",
+    "enname": "Changbei International"
+  },
+  {
+    "iata": "NAO",
+    "name": "南充高坪机场",
+    "pinyin": "nanchonggaopingjichang",
+    "enname": "Nanchong Airport"
+  },
+  {
+    "iata": "NKG",
+    "name": "南京禄口国际机场",
+    "pinyin": "nanjinglukouguojijichang",
+    "enname": "Lukou"
+  },
+  {
+    "iata": "NNG",
+    "name": "南宁吴圩国际机场",
+    "pinyin": "nanningwuxuguojijichang",
+    "enname": "Wuxu"
+  },
+  {
+    "iata": "NTG",
+    "name": "南通兴东机场",
+    "pinyin": "nantongxingdongjichang",
+    "enname": "Nantong Airport"
+  },
+  {
+    "iata": "NNY",
+    "name": "南阳姜营机场",
+    "pinyin": "nanyangjiangyingjichang",
+    "enname": "Nanyang Airport"
+  },
+  {
+    "iata": "NGB",
+    "name": "宁波栎社国际机场",
+    "pinyin": "ningbolisheguojijichang",
+    "enname": "Lishe"
+  },
+  {
+    "iata": "PZI",
+    "name": "攀枝花保安营机场",
+    "pinyin": "panzhihuabaoandongyingjichang",
+    "enname": "Panzhihua Baoanying Airport"
+  },
+  {
+    "iata": "SYM",
+    "name": "普洱思茅机场",
+    "pinyin": "pu`ersimaojichang",
+    "enname": "Simao Airport"
+  },
+  {
+    "iata": "JIQ",
+    "name": "黔江武陵山机场",
+    "pinyin": "qianjiangwulingshanjichang",
+    "enname": "Qianjiang Wulingshan Airport"
+  },
+  {
+    "iata": "IQM",
+    "name": "且末机场",
+    "pinyin": "qimojichang",
+    "enname": "Qiemo Airport"
+  },
+  {
+    "iata": "TAO",
+    "name": "青岛流亭国际机场",
+    "pinyin": "qingdaoliutingguojijichang",
+    "enname": "Liuting"
+  },
+  {
+    "iata": "IQN",
+    "name": "庆阳西峰机场",
+    "pinyin": "qingyangjichang",
+    "enname": "Qingyang Airport"
+  },
+  {
+    "iata": "BPE",
+    "name": "秦皇岛北戴河机场",
+    "pinyin": "qinhuangdaobeidaihejichang",
+    "enname": null
+  },
+  {
+    "iata": "NDG",
+    "name": "齐齐哈尔三家子机场",
+    "pinyin": "qiqihaersanjiazijichang",
+    "enname": "Shangjiazi"
+  },
+  {
+    "iata": "JJN",
+    "name": "泉州晋江国际机场",
+    "pinyin": "quanzhoujinjiangguojijichang",
+    "enname": "Quanzhou/Jinjiang"
+  },
+  {
+    "iata": "RKZ",
+    "name": "日喀则和平机场",
+    "pinyin": "RIKAZEJICHANG",
+    "enname": null
+  },
+  {
+    "iata": "RIZ",
+    "name": "日照山字河国际机场",
+    "pinyin": "rizhaoshanzihejichang",
+    "enname": "Rizhao-Shanzihe International Airport"
+  },
+  {
+    "iata": "spn",
+    "name": "塞班国际机场",
+    "pinyin": "saibanguojijichang",
+    "enname": "Saipan International Airport"
+  },
+  {
+    "iata": "SYX",
+    "name": "三亚凤凰国际机场",
+    "pinyin": "sanyafenghuangguojijichang",
+    "enname": "Fenghuang"
+  },
+  {
+    "iata": "SHA",
+    "name": "上海虹桥国际机场",
+    "pinyin": "shanghaihongqiaoguojijichang",
+    "enname": "Hongqiao"
+  },
+  {
+    "iata": "PVG",
+    "name": "上海浦东国际机场",
+    "pinyin": "shanghaipudongguojijichang",
+    "enname": "Pudong"
+  },
+  {
+    "iata": "HPG",
+    "name": "神农架红坪机场",
+    "pinyin": "shennongjiahongpingjichang",
+    "enname": null
+  },
+  {
+    "iata": "SHE",
+    "name": "沈阳桃仙国际机场",
+    "pinyin": "shenyangtaoxianguojijichang",
+    "enname": "Taoxian"
+  },
+  {
+    "iata": "SZX",
+    "name": "深圳宝安国际机场",
+    "pinyin": "shenzhenbaoanguojijichang",
+    "enname": "Baoan"
+  },
+  {
+    "iata": "SJW",
+    "name": "石家庄正定国际机场",
+    "pinyin": "shijiazhuangzhengdingguojijichang",
+    "enname": "Zhengding"
+  },
+  {
+    "iata": "TYN",
+    "name": "太原武宿国际机场",
+    "pinyin": "taiyuanwusuguojijichang",
+    "enname": "Wusu"
+  },
+  {
+    "iata": "HYN",
+    "name": "台州路桥机场",
+    "pinyin": "taizhouluqiaojichang",
+    "enname": "Huangyan Luqiao Airport"
+  },
+  {
+    "iata": "TVS",
+    "name": "唐山三女河机场",
+    "pinyin": "tangshansannvhejichang",
+    "enname": null
+  },
+  {
+    "iata": "TCZ",
+    "name": "腾冲驼峰机场",
+    "pinyin": "tengchongtuofengjichang",
+    "enname": "Tengchong Tuofeng Airport"
+  },
+  {
+    "iata": "TSN",
+    "name": "天津滨海国际机场",
+    "pinyin": "tianjinbinhaiguojijichang",
+    "enname": "Binhai"
+  },
+  {
+    "iata": "THQ",
+    "name": "天水机场",
+    "pinyin": "tianshuijichang",
+    "enname": "Tianshui Maijishan Airport"
+  },
+  {
+    "iata": "TNH",
+    "name": "通化三源浦机场",
+    "pinyin": "tonghuasanyuanpujichang",
+    "enname": "Tonghua Sanyuanpu Airport"
+  },
+  {
+    "iata": "TGO",
+    "name": "通辽机场",
+    "pinyin": "tongliaojichang",
+    "enname": "Tongliao Airport"
+  },
+  {
+    "iata": "TEN",
+    "name": "铜仁凤凰机场",
+    "pinyin": "tongrenfenghuangjichang",
+    "enname": "Tongren Fenghuang Airport"
+  },
+  {
+    "iata": "TLQ",
+    "name": "吐鲁番交河机场",
+    "pinyin": "tulufanjiaohejichang",
+    "enname": null
+  },
+  {
+    "iata": "WXN",
+    "name": "万州五桥机场",
+    "pinyin": "wanzhouwuqiaojichang",
+    "enname": "Wanxian Airport"
+  },
+  {
+    "iata": "WEF",
+    "name": "潍坊南苑机场",
+    "pinyin": "weifangnanyuanjichang",
+    "enname": "Weifang Airport"
+  },
+  {
+    "iata": "WEH",
+    "name": "威海大水泊国际机场",
+    "pinyin": "weihaidashuipoguojijichang",
+    "enname": "Dashuipo"
+  },
+  {
+    "iata": "WNH",
+    "name": "文山机场",
+    "pinyin": "wenshanjichang",
+    "enname": "Wenshan puzhehei Airport"
+  },
+  {
+    "iata": "WNZ",
+    "name": "温州龙湾国际机场",
+    "pinyin": "wenzhoulongwanguojijichang",
+    "enname": "Wenzhou"
+  },
+  {
+    "iata": "WUA",
+    "name": "乌海机场",
+    "pinyin": "wuhaijichang",
+    "enname": "wuhaijichang"
+  },
+  {
+    "iata": "WUH",
+    "name": "武汉天河国际机场",
+    "pinyin": "wuhantianheguojijichang",
+    "enname": "Tianhe"
+  },
+  {
+    "iata": "HLH",
+    "name": "乌兰浩特机场",
+    "pinyin": "wulanhaotejichang",
+    "enname": "Ulanhot Airport"
+  },
+  {
+    "iata": "URC",
+    "name": "乌鲁木齐地窝堡国际机场",
+    "pinyin": "wulumuqidiwobaoguojijichang",
+    "enname": "Diwopu"
+  },
+  {
+    "iata": "WUX",
+    "name": "无锡硕放国际机场",
+    "pinyin": "wuxishuofangjichang",
+    "enname": "Sunan Shuofang International Airport"
+  },
+  {
+    "iata": "WUS",
+    "name": "武夷山机场",
+    "pinyin": "wuyishanjichang",
+    "enname": "Nanping Wuyishan Airport"
+  },
+  {
+    "iata": "WUZ",
+    "name": "梧州长洲岛机场",
+    "pinyin": "wuzhouchangzhoudaojichang",
+    "enname": "Changzhoudao Airport"
+  },
+  {
+    "iata": "XMN",
+    "name": "厦门高崎国际机场",
+    "pinyin": "xiamengaoqiguojijichang",
+    "enname": "Gaoqi"
+  },
+  {
+    "iata": "DIG",
+    "name": "香格里拉机场",
+    "pinyin": "xianggelilajichang",
+    "enname": "Xianggelila"
+  },
+  {
+    "iata": "XFN",
+    "name": "襄阳刘集机场",
+    "pinyin": "xiangyangliujijichang",
+    "enname": "Xiangfan Airport"
+  },
+  {
+    "iata": "XIY",
+    "name": "西安咸阳国际机场",
+    "pinyin": "xianxianyangguojijichang",
+    "enname": "Xianyang"
+  },
+  {
+    "iata": "XIC",
+    "name": "西昌青山机场",
+    "pinyin": "xichangqingshanjichang",
+    "enname": "Qingshan"
+  },
+  {
+    "iata": "XIL",
+    "name": "锡林浩特机场",
+    "pinyin": "xilinhaotejichang",
+    "enname": "Xilinhot Airport"
+  },
+  {
+    "iata": "ACX",
+    "name": "兴义万峰林机场",
+    "pinyin": "xingyiwanfenglinjichang",
+    "enname": "Xingyi Airport"
+  },
+  {
+    "iata": "XNN",
+    "name": "西宁曹家堡国际机场",
+    "pinyin": "xiningcaojiabaoguojijichang",
+    "enname": "Xining Caojiabu Airport"
+  },
+  {
+    "iata": "TCG",
+    "name": "新疆塔城机场",
+    "pinyin": "xinjiangtachengjichang",
+    "enname": "Tacheng Airport"
+  },
+  {
+    "iata": "WUT",
+    "name": "忻州五台山机场",
+    "pinyin": "xinzhouwutaishanjichang",
+    "enname": "     Xinzhou Wutaishan Airport "
+  },
+  {
+    "iata": "JHG",
+    "name": "西双版纳嘎洒机场",
+    "pinyin": "xishuangbannagasajichang",
+    "enname": "Gasa"
+  },
+  {
+    "iata": "XUZ",
+    "name": "徐州观音国际机场",
+    "pinyin": "xuzhouguanyinguojijichang",
+    "enname": "Xuzhou"
+  },
+  {
+    "iata": "ENY",
+    "name": "延安二十里铺机场",
+    "pinyin": "yananershilipujichang",
+    "enname": "Yan'An Airport"
+  },
+  {
+    "iata": "YNZ",
+    "name": "盐城南洋国际机场",
+    "pinyin": "yanchengnanyangguojijichang",
+    "enname": "Nanyang"
+  },
+  {
+    "iata": "YTY",
+    "name": "扬州泰州机场",
+    "pinyin": "yangzhoutaizhoujichang",
+    "enname": "YANGZHOU TAIZHOU INTERNATIONAL AIRPORT"
+  },
+  {
+    "iata": "YNJ",
+    "name": "延吉朝阳川机场",
+    "pinyin": "yanjichaoyangchuanjichang",
+    "enname": "Yanji"
+  },
+  {
+    "iata": "YNT",
+    "name": "烟台蓬莱国际机场",
+    "pinyin": "yantaipenglaijichang",
+    "enname": "Laishan"
+  },
+  {
+    "iata": "YBP",
+    "name": "宜宾菜坝机场",
+    "pinyin": "yibincaibajichang",
+    "enname": "Yibin Caiba Airport"
+  },
+  {
+    "iata": "YIH",
+    "name": "宜昌三峡机场",
+    "pinyin": "yichangsanxiajichang",
+    "enname": "Sanxia"
+  },
+  {
+    "iata": "LDS",
+    "name": "伊春林都机场",
+    "pinyin": "yichunlindujichang",
+    "enname": "Lindu Airport"
+  },
+  {
+    "iata": "YIC",
+    "name": "宜春明月山机场",
+    "pinyin": "yichunmingyueshanjichang",
+    "enname": "Yichun Bright Moon Mountain Airport"
+  },
+  {
+    "iata": "INC",
+    "name": "银川河东机场",
+    "pinyin": "yinchuanhedongjichang",
+    "enname": "Yinchuan Hedong"
+  },
+  {
+    "iata": "YKH",
+    "name": "营口兰旗机场",
+    "pinyin": "yingkoulanqijichang",
+    "enname": "YINGKOU LANQI AIRPORT"
+  },
+  {
+    "iata": "YIN",
+    "name": "伊宁机场",
+    "pinyin": "yiningjichang",
+    "enname": "Yining Airport"
+  },
+  {
+    "iata": "YIW",
+    "name": "义乌机场",
+    "pinyin": "yiwujichang",
+    "enname": "Yiwu Airport"
+  },
+  {
+    "iata": "LLF",
+    "name": "永州零陵机场",
+    "pinyin": "yongzhoulinglingjichang",
+    "enname": "Lingling Airport"
+  },
+  {
+    "iata": "UYN",
+    "name": "榆林榆阳机场",
+    "pinyin": "yulinyuyangjichang",
+    "enname": "Yulin Airport"
+  },
+  {
+    "iata": "YCU",
+    "name": "运城关公机场",
+    "pinyin": "yunchengguangongjichang",
+    "enname": "Yuncheng Guangong Airport"
+  },
+  {
+    "iata": "YUS",
+    "name": "玉树巴塘机场",
+    "pinyin": "yushujichang",
+    "enname": "Yushu Batang Airport"
+  },
+  {
+    "iata": "DYG",
+    "name": "张家界荷花机场",
+    "pinyin": "zhangjiajiehehuajichang",
+    "enname": "Zhangjiajie Hehua"
+  },
+  {
+    "iata": "ZQZ",
+    "name": "张家口宁远机场",
+    "pinyin": "zhangjiakouningyuanjichang",
+    "enname": null
+  },
+  {
+    "iata": "YZY",
+    "name": "张掖甘州机场",
+    "pinyin": "zhangyeganzhoujichang",
+    "enname": "Zhangye Southeast Air Base"
+  },
+  {
+    "iata": "ZHA",
+    "name": "湛江机场",
+    "pinyin": "zhanjiangjichang",
+    "enname": "Zhanjiang Airport"
+  },
+  {
+    "iata": "ZAT",
+    "name": "昭通机场",
+    "pinyin": "zhaotongjichang",
+    "enname": "Zhaotong Airport"
+  },
+  {
+    "iata": "CGO",
+    "name": "郑州新郑国际机场",
+    "pinyin": "zhengzhouxinzhengguojijichang",
+    "enname": "Xinzheng"
+  },
+  {
+    "iata": "HSN",
+    "name": "舟山普陀山机场",
+    "pinyin": "zhoushanputuoshanjichang",
+    "enname": "Zhoushan Airport"
+  },
+  {
+    "iata": "ZUH",
+    "name": "珠海金湾机场",
+    "pinyin": "zhuhaijinwanjichang",
+    "enname": "Sanzao"
+  },
+  {
+    "iata": "ZYI",
+    "name": "遵义机场",
+    "pinyin": "Zunyi Airport",
+    "enname": "Zunyi Airport"
+  }
+]
