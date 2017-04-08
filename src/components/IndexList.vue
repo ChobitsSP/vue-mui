@@ -213,7 +213,9 @@
             }
         },
         mounted() {
-            mui(this.$el).indexedList()
+            this.$nextTick(() => {
+                mui(this.$el).indexedList()
+            })
         }
     }
 </script>
