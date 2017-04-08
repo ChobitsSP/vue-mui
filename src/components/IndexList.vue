@@ -1,5 +1,5 @@
 ﻿<template>
-    <div id='list' class="mui-indexed-list">
+    <div class="mui-indexed-list" :style="{ height: height + 'px' }">
         <div class="mui-indexed-list-search mui-input-row mui-search">
             <input type="search" class="mui-input-clear mui-indexed-list-search-input" placeholder="搜索机场">
         </div>
@@ -202,6 +202,11 @@
 
     module.exports = {
         name: 'MuiIndexList',
+        props: {
+            height: {
+                type: Number
+            }
+        },
         data() {
             return {
                 keys: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')

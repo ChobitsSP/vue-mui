@@ -1,18 +1,18 @@
 ﻿<template>
     <div class="mui-content">
-        <index-list style="height:1000px;"></index-list>
+        <index-list ref="wrapper" :height="wrapperHeight"></index-list>
     </div>
 </template>
 
 <script>
     module.exports = {
         data() {
-
+            return {
+                wrapperHeight: 0
+            }
         },
         mounted() {
-            this.$nextTick(() => {
-
-            })
+            this.wrapperHeight = document.body.offsetHeight - 44
         },
         components: {
             IndexList: require('components/IndexList')
