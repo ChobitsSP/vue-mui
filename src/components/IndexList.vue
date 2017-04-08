@@ -213,9 +213,9 @@
             }
         },
         mounted() {
-            this.$nextTick(() => {
+            setTimeout(() => {
                 mui(this.$el).indexedList()
-            })
+            }, 0)
         }
     }
 </script>
