@@ -11,11 +11,11 @@
             </li>
             <li class="mui-table-view-cell">
                 <span>状态：{{ value }}</span>
-                <mui-switch class="mui-switch-blue" v-model="value"></mui-switch>
+                <mui-switch class="mui-switch-blue" on-text="开启" off-text="关闭" v-model="value"></mui-switch>
             </li>
             <li class="mui-table-view-cell">
                 <span>状态：{{ value }}</span>
-                <mui-switch class="mui-switch-mini mui-switch-blue" v-model="value"></mui-switch>
+                <mui-switch class="mui-switch-mini mui-switch-blue" v-model="value" disabled></mui-switch>
             </li>
         </ul>
     </div>

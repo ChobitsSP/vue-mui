@@ -75,4 +75,8 @@
     .mui-switch:before {
         content: '';
     }
+
+    .mui-switch-mini span {
+        display:none;
+    }
 </style>
