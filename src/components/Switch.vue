@@ -31,9 +31,10 @@
             update(event) {
                 if (this.disabled) {
                     this.refresh(this.value)
-                    return
                 }
-                this.$emit('input', event.detail.isActive)
+                else {
+                    this.$emit('input', event.detail.isActive)
+                }
             },
             refresh(val) {
                 const isActive = this.$el.classList.contains("mui-active")
